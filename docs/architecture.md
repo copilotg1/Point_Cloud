@@ -1,5 +1,9 @@
 # PointNet 架构深度分析 (PointNet Architecture Deep Analysis)
 
+> 📖 **逐层代码详解**：如果你想一步一步对照代码理解每个网络组件，请参阅
+> [architecture_walkthrough.md](architecture_walkthrough.md)，
+> 其中包含从输入到输出的每一层详细解析、张量形状跟踪和论文出处标注。
+
 ## 1. 论文概述 (Paper Overview)
 
 **论文**: *PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation*

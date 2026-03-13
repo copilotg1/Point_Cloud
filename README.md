@@ -29,6 +29,7 @@ Input (N×3) → Input T-Net → Shared MLP (64,64) → Feature T-Net
 ```
 
 For a detailed architecture analysis, see [`docs/architecture.md`](docs/architecture.md).
+For a step-by-step code walkthrough connecting paper concepts to implementation, see [`docs/architecture_walkthrough.md`](docs/architecture_walkthrough.md).
 
 ## Project Structure
 
